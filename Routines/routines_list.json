@@ -1,0 +1,835 @@
+{
+    listOfUserRoutine =     (
+                {
+            routine =             {
+                author = HUMANOO;
+                description = "This routine strengthens your abs and supports a strong core. Do it on a weekly basis to see results soon.";
+                duration = "20-40 min.";
+                equipmentsForRoutine =                 (
+                                        {
+                        equipmentDescription = "";
+                        equipmentId = 3;
+                        equipmentName = Bodyweight;
+                    }
+                );
+                fitnessLevel = Fit;
+                focusArea = Core;
+                goal = "Build up Muscles";
+                id = 10;
+                imageUrl = "https://storage4.humanoo.com/exercise/image/768x432/en/ROMU005_EN.jpg";
+                improvementInfo = "Define your abs and improve the performance of your cardiovascular system";
+                intensity = intense;
+                motivationInfo = " ";
+                purpose = "get ripped, cardio";
+                routineExercises =                 (
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: feet hip width apart; toes pointing forward\n\U2022 Take a step forward; your upper body stays in an upright position; keep your back straight\n\U2022 Bend your back knee until it touches the floor; your front knee stays behind your toes\n\U2022 Shift your weight to the front and push yourself back to the starting position; take another step with the other leg";
+                            exerciseId = 645;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU038_EN.jpg";
+                            importId = MU038;
+                            name = Lunges;
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU038_EN.mp4";
+                        };
+                        orderNo = 1;
+                        routineExerciseId = 40;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 30;
+                                done = 0;
+                                repeats = 20;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: lie on your back with your knees bent and place your feet flat on the floor; place your fingers next to your ears\n\U2022 Slowly lift your upper body up\n\U2022 Carefully return to the starting position\n\U2022 Keep your feet on the ground";
+                            exerciseId = 665;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU062_EN.jpg";
+                            importId = MU062;
+                            name = Crunches;
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU062_EN.mp4";
+                        };
+                        orderNo = 2;
+                        routineExerciseId = 41;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 25;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: stand upright with your feet hip width apart\n\U2022 Place your hands in front of your feet on the ground\n\U2022 Jump with both feet simultaneously backwards\n\U2022 Lower your entire body down to the ground; your chest touches the floor\n\U2022 Push yourself up again; keep your core tight and your back straight\n\U2022 Bring both feet simultaneously back towards your hands\n\U2022 Jump straight up";
+                            exerciseId = 663;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU057_EN.jpg";
+                            importId = MU057;
+                            name = Burpees;
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU057_EN.mp4";
+                        };
+                        orderNo = 3;
+                        routineExerciseId = 42;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 20;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: lie on your back with your knees bent and place your feet flat on the floor; place your arms slightly bent above your head\n\U2022 Lift up your upper body \n\U2022 Feet need to stay on the ground\n\U2022 Slowly return to the starting position";
+                            exerciseId = 617;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU009_EN.jpg";
+                            importId = MU009;
+                            name = "Sit-ups";
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU009_EN.mp4";
+                        };
+                        orderNo = 4;
+                        routineExerciseId = 43;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 25;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: plank; shoulders above hands; head, shoulders, hip and feet aligned\n\U2022 Bend one leg and place it at hip level on the ground; do not lift your hands; other leg extended\n\U2022 Jump to change positions of your feet\n\U2022 Keep your hips lower than your shoulders and your core tight";
+                            exerciseId = 662;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU056_EN.jpg";
+                            importId = MU056;
+                            name = "Mountain Climbers";
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU056_EN.mp4";
+                        };
+                        orderNo = 5;
+                        routineExerciseId = 44;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 30;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: stand upright with your feet hip width apart\n\U2022 Place your hands in front of your feet on the ground\n\U2022 Jump with both feet simultaneously backwards\n\U2022 Lower your entire body down to the ground; your chest touches the floor\n\U2022 Push yourself up again; keep your core tight and your back straight\n\U2022 Bring both feet simultaneously back towards your hands\n\U2022 Jump straight up";
+                            exerciseId = 663;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU057_EN.jpg";
+                            importId = MU057;
+                            name = Burpees;
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU057_EN.mp4";
+                        };
+                        orderNo = 6;
+                        routineExerciseId = 45;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 20;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: lie on your back on the ground\n\U2022 Stretch your arms above and behind your head, your feet are touching\n\U2022 Move your arms and legs up simultaneously\n\U2022 Legs remain stretched out until they are perpendicular to the ground\n\U2022 Touching your feet with your fingertips\n\U2022 Keep tension in your body\n\U2022 Return to the Starting position\n\U2022 Repeat";
+                            exerciseId = 667;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU064_EN.jpg";
+                            importId = MU064;
+                            name = "Jack Knives ";
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU064_EN.mp4";
+                        };
+                        orderNo = 7;
+                        routineExerciseId = 46;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 20;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: recline flat on your back on the ground\n\U2022 Stretch your legs, keep your heels close together\n\U2022 Stretch your arms above and behind your head, then put your hands on the ground\n\U2022 Bring your waist up with a swing, bend your legs and keep you abdomen tense\n\U2022 Turn your knees outwards, jump up and push off the floor with your  feet\n\U2022 Straight your body so it forms a line in the air, fold your arms behind your head\n\U2022 Bring your hands together again and return to the starting position";
+                            exerciseId = 691;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU093_EN.jpg";
+                            importId = MU093;
+                            name = "HH Standups";
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU093_EN.mp4";
+                        };
+                        orderNo = 8;
+                        routineExerciseId = 47;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 15;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: stand upright with your feet hip width apart\n\U2022 Place your hands in front of your feet on the ground\n\U2022 Jump with both feet simultaneously backwards\n\U2022 Lower your entire body down to the ground; your chest touches the floor\n\U2022 Push yourself up again; keep your core tight and your back straight\n\U2022 Bring both feet simultaneously back towards your hands\n\U2022 Jump straight up";
+                            exerciseId = 663;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU057_EN.jpg";
+                            importId = MU057;
+                            name = Burpees;
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU057_EN.mp4";
+                        };
+                        orderNo = 9;
+                        routineExerciseId = 48;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 20;
+                                setnumber = 3;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                                                                {
+                                    equipmentDescription = "";
+                                    equipmentId = 3;
+                                    equipmentName = Bodyweight;
+                                }
+                            );
+                            exerciseCategoryTye = MUSCLAR;
+                            exerciseDescription = "\U2022 Starting position: lie on your back with your knees bent and place your feet flat on the floor; place your fingers next to your ears\n\U2022 Slowly lift your upper body up\n\U2022 Carefully return to the starting position\n\U2022 Keep your feet on the ground";
+                            exerciseId = 665;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/MU062_EN.jpg";
+                            importId = MU062;
+                            name = Crunches;
+                            prevExercise = "";
+                            stepsList =                             (
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/MU062_EN.mp4";
+                        };
+                        orderNo = 10;
+                        routineExerciseId = 49;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 60;
+                                done = 0;
+                                repeats = 20;
+                                setnumber = 3;
+                            }
+                        );
+                    }
+                );
+                sizeExercise = 10;
+                title = "Rock your Abs";
+                variationType = "routinevariationtype.1.name";
+                variationTypeId = 1;
+            };
+            startDate = "08/12/2016 10:05:58";
+            userId = 14;
+        },
+                {
+            routine =             {
+                author = HUMANOO;
+                description = " This training stretches the front, back, and exterior of your entire body.";
+                duration = "10-20 min.";
+                equipmentsForRoutine =                 (
+                );
+                focusArea = "Full body";
+                goal = Physio;
+                id = 118;
+                imageUrl = "https://storage4.humanoo.com/exercise/image/768x432/en/ROPH017_EN.jpg";
+                improvementInfo = " ";
+                motivationInfo = " ";
+                purpose = "Improve Flexibility";
+                routineExercises =                 (
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 47;
+                            equipmentList =                             (
+                            );
+                            exerciseCategoryTye = PHYSICAL;
+                            exerciseDescription = "This exercise stretches the entire left and right side of your body";
+                            exerciseId = 66;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/EX070_EN.jpg";
+                            importId = EX070;
+                            name = "Phoenix Delta Stretch";
+                            prevExercise = "";
+                            stepsList =                             (
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/EX070_01_EN.jpg";
+                                    stepNb = 1;
+                                    text = "Stand up straight. Place your left foot behind the right foot. \nThe left foot is next to the right.";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/EX070_02_EN.jpg";
+                                    stepNb = 2;
+                                    text = "Now slowly tilt the upper body to the right side. Hold this stretch for 30 seconds. Then cross the other leg back and lean your upper body to the other side.";
+                                }
+                            );
+                            subtitle = "Full body";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/EX070_EN.mp4";
+                        };
+                        orderNo = 1;
+                        routineExerciseId = 920;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 30;
+                                done = 0;
+                                repeats = 5;
+                                setnumber = 1;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 48;
+                            equipmentList =                             (
+                            );
+                            exerciseCategoryTye = PHYSICAL;
+                            exerciseDescription = "This coaching stretches your entire body";
+                            exerciseId = 67;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/EX071_EN.jpg";
+                            importId = EX071;
+                            name = "Phoenix Epsilon Stretch";
+                            prevExercise = "";
+                            stepsList =                             (
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/EX071_01_EN.jpg";
+                                    stepNb = 1;
+                                    text = "Stand up straight, stretch your arms upwards and slowly turn your upper body to the right. ";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/EX071_02_EN.jpg";
+                                    stepNb = 2;
+                                    text = "Now move your hips forward. Repeat this exercise for 30 seconds. Then change to the other side.";
+                                }
+                            );
+                            subtitle = "Full body";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/EX071_EN.mp4";
+                        };
+                        orderNo = 2;
+                        routineExerciseId = 921;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 30;
+                                done = 0;
+                                repeats = 5;
+                                setnumber = 1;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                            );
+                            exerciseCategoryTye = PHYSICAL;
+                            exerciseDescription = "\U2022 Starting position: kneel down on floor\n\U2022 Hands rest on heels\n\U2022 Move hip forward\n\U2022 Stretch upper body backward";
+                            exerciseId = 755;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/HO038_EN.jpg";
+                            importId = HO038;
+                            name = "Front Body Stretch III";
+                            prevExercise = "";
+                            stepsList =                             (
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO038_01_EN.jpg";
+                                    stepNb = 1;
+                                    text = "Stand on both knees, rest your hands on your heels";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO038_02_EN.jpg";
+                                    stepNb = 2;
+                                    text = "Slowy lean your upper body backward";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO038_03_EN.jpg";
+                                    stepNb = 3;
+                                    text = "Hold position for 40-60 seconds";
+                                }
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/HO038_EN.mp4";
+                        };
+                        orderNo = 3;
+                        routineExerciseId = 922;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 30;
+                                done = 0;
+                                repeats = 5;
+                                setnumber = 1;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                            );
+                            exerciseCategoryTye = PHYSICAL;
+                            exerciseDescription = "\U2022 Starting position: sit on your heels\n\U2022 Slowly lean back with your upper body\n\U2022 Support yourself with your elbows\n\U2022 Hold this position for 40-60 seconds";
+                            exerciseId = 722;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/HO039_EN.jpg";
+                            importId = HO039;
+                            name = "Front Body Stretch I";
+                            prevExercise = "";
+                            stepsList =                             (
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO039_01_EN.jpg";
+                                    stepNb = 1;
+                                    text = "Starting position: kneel down";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO039_02_EN.jpg";
+                                    stepNb = 2;
+                                    text = "Hold yourself up on your elbows";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO039_03_EN.jpg";
+                                    stepNb = 3;
+                                    text = "Lean head back and hold position for 40-60 seconds";
+                                }
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/HO039_EN.mp4";
+                        };
+                        orderNo = 4;
+                        routineExerciseId = 923;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 30;
+                                done = 0;
+                                repeats = 5;
+                                setnumber = 1;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                            );
+                            exerciseCategoryTye = PHYSICAL;
+                            exerciseDescription = "\U2022 Starting position: sit on your heels\n\U2022 Support yourself on your hands and feet\n\U2022 Keep your back straight\n\U2022 Point your feet\n\U2022 Bring your hips to the floor\n\U2022 Press upwards through your arms";
+                            exerciseId = 728;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/HO052_EN.jpg";
+                            importId = HO052;
+                            name = "Intense Hip Mobilisation I";
+                            prevExercise = "";
+                            stepsList =                             (
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO052_01_EN.jpg";
+                                    stepNb = 1;
+                                    text = "Lean on your hands and feet - knees are extended - keep your back straight";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO052_02_EN.jpg";
+                                    stepNb = 2;
+                                    text = "Slowly bring your hips to the floor - arms are extended - glance towards the ceiling";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO052_03_EN.jpg";
+                                    stepNb = 3;
+                                    text = "Come back on your hands and feet - mind your knees and back";
+                                }
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/HO052_EN.mp4";
+                        };
+                        orderNo = 5;
+                        routineExerciseId = 924;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 30;
+                                done = 0;
+                                repeats = 5;
+                                setnumber = 1;
+                            }
+                        );
+                    },
+                                        {
+                        done = 0;
+                        exercise =                         {
+                            audioFile = "";
+                            audioMusic = "";
+                            audioSpeaker = "";
+                            done = 0;
+                            duration = 0;
+                            equipmentList =                             (
+                            );
+                            exerciseCategoryTye = PHYSICAL;
+                            exerciseDescription = "\U2022 Starting position: deep lunge\n\U2022 Slowly bring your extended arms backward\n\U2022 Return to starting position\n\U2022 Extend both knees\n\U2022 Bring your head towards your knees\n\U2022 Change legs";
+                            exerciseId = 729;
+                            exerciseVariationType = "";
+                            favourite = 0;
+                            goal = "";
+                            imageUrl = "https://storage1.humanoo.com/exercise/image/768x432/en/HO057_EN.jpg";
+                            importId = HO057;
+                            name = "Full Body Stretch I";
+                            prevExercise = "";
+                            stepsList =                             (
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO057_01_EN.jpg";
+                                    stepNb = 1;
+                                    text = "Starting position: deep lunge";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO057_02_EN.jpg";
+                                    stepNb = 2;
+                                    text = "Slowly bring your extended arms backward";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO057_03_EN.jpg";
+                                    stepNb = 3;
+                                    text = "Slowly extend both knees - keep your hands on the floor";
+                                },
+                                                                {
+                                    audio = "";
+                                    image = "https://storage2.humanoo.com/exercise/image/768x432/en/HO057_04_EN.jpg";
+                                    stepNb = 4;
+                                    text = "Change to other leg - keep your hands on the floor";
+                                }
+                            );
+                            subtitle = "";
+                            summary = "";
+                            swiped = 0;
+                            topicId = null;
+                            videoUrl = "https://storage1.humanoo.com/exercise/video/768x432/en/HO057_EN.mp4";
+                        };
+                        orderNo = 6;
+                        routineExerciseId = 925;
+                        routineExercisesSet =                         (
+                                                        {
+                                breaktime = 30;
+                                done = 0;
+                                repeats = 5;
+                                setnumber = 1;
+                            }
+                        );
+                    }
+                );
+                sizeExercise = 6;
+                title = "Full Body Stretch II";
+                variationType = "routinevariationtype.3.name";
+                variationTypeId = 3;
+            };
+            startDate = "08/12/2016 10:06:28";
+            userId = 14;
+        }
+    );
+}
