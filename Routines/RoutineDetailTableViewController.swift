@@ -32,7 +32,7 @@ class RoutineDetailTableViewController: UITableViewController {
         super.viewDidLoad()
         
         //Top inset to make the table start after the navigation bar
-        self.tableView.contentInset = UIEdgeInsetsMake(Constants.navigationBarHeight,0,0,0)
+        tableView.contentInset = UIEdgeInsetsMake(Constants.navigationBarHeight,0,0,0)
         
         //Give tableview y offset of the size of the navigation bar
         tableView.contentOffset = CGPoint(x: 0, y: -Constants.navigationBarHeight)
