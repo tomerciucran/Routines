@@ -104,10 +104,10 @@
 		F12B8F6A1DFA1D3400FC049A /* Routines */ = {
 			isa = PBXGroup;
 			children = (
+				F15D403A1DFD709F001ECC17 /* Views */,
+				F15D40381DFD7077001ECC17 /* ViewControllers */,
 				F175D43C1DFAF21A0091F866 /* Models */,
 				F12B8F6B1DFA1D3400FC049A /* AppDelegate.swift */,
-				F17C50A31DFC312B00D9140E /* RoutinesTableViewController.swift */,
-				F194FD631DFC48E300FFC9C5 /* RoutineDetailTableViewController.swift */,
 				F12B8F7D1DFA1D4600FC049A /* routines_list.json */,
 				F12B8F6F1DFA1D3400FC049A /* Main.storyboard */,
 				F12B8F721DFA1D3400FC049A /* Assets.xcassets */,
@@ -115,13 +115,37 @@
 				F12B8F771DFA1D3400FC049A /* Info.plist */,
 				F175D4301DFAE81B0091F866 /* RoutinesListParser.swift */,
 				F175D4341DFAE9FA0091F866 /* Constants.swift */,
-				F194FD611DFC361A00FFC9C5 /* RoutineTableViewCell.swift */,
-				F194FD651DFC608600FFC9C5 /* CircleBorderedLabel.swift */,
-				F194FD671DFC640300FFC9C5 /* ExerciseMuscularTableViewCell.swift */,
-				F194FD691DFC643F00FFC9C5 /* ExercisePhysicalTableViewCell.swift */,
 				F194FD6F1DFC76FE00FFC9C5 /* String+Time.swift */,
 			);
 			path = Routines;
+			sourceTree = "<group>";
+		};
+		F15D40381DFD7077001ECC17 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				F17C50A31DFC312B00D9140E /* RoutinesTableViewController.swift */,
+				F194FD631DFC48E300FFC9C5 /* RoutineDetailTableViewController.swift */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		F15D40391DFD708B001ECC17 /* UITableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				F194FD611DFC361A00FFC9C5 /* RoutineTableViewCell.swift */,
+				F194FD671DFC640300FFC9C5 /* ExerciseMuscularTableViewCell.swift */,
+				F194FD691DFC643F00FFC9C5 /* ExercisePhysicalTableViewCell.swift */,
+			);
+			name = UITableViewCells;
+			sourceTree = "<group>";
+		};
+		F15D403A1DFD709F001ECC17 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F194FD651DFC608600FFC9C5 /* CircleBorderedLabel.swift */,
+				F15D40391DFD708B001ECC17 /* UITableViewCells */,
+			);
+			name = Views;
 			sourceTree = "<group>";
 		};
 		F175D43C1DFAF21A0091F866 /* Models */ = {
